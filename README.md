@@ -1,8 +1,34 @@
-# React + Vite
+# Portfolio - Nicholas L Deignan
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+Professional Portfolio for Nicholas L. Deignan
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Table of contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Questions](#questions)
+
+## Installation
+
+npm i
+
+## Usage
+
+npm start
+
+## License
+
+This project is licensed under the MIT license
+
+## Video Demo
+
+![screenshot](../professional-portfolio/src/assets/screenshot.jpg)
+
+## Questions
+
+Nick Deignan
+If you have any questions please email me at nlad218@gmail.com
+If you want to see more of my work please visit me at [nlad218](https://github.com/nlad218)
